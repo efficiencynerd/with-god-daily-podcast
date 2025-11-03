@@ -1,1 +1,22 @@
-<rss></rss>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>WITH GOD DAILY - Audio Devotional</title>
+    <link>https://efficiencynerd.github.io/with-god-daily-devotional/feed.xml</link>
+    <description>Daily audio devotional from Skye Jethani, automatically updated each morning.</description>
+    <language>en-us</language>
+    <itunes:author>Skye Jethani</itunes:author>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <item>
+      <title>Why Sunday?</title>
+      <description>Daily devotional for Nov 3, 2025</description>
+      <enclosure url="https://wgd-media.s3.us-west-2.amazonaws.com/Church_series/WITH%2BGOD%2BDAILY%2B-%2BWhy%2BSunday_%2B10.12.20.m4a" length="0" type="audio/x-m4a"/>
+      <guid isPermaLink="false">devotional-2025-11-03</guid>
+      <pubDate>Mon, 03 Nov 2025 16:11:53 GMT</pubDate>
+      <itunes:duration>10:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
