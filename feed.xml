@@ -11,6 +11,16 @@
     </itunes:category>
 
     <item>
+      <title>Why Not Saturday?</title>
+      <description>Daily devotional for Nov 4, 2025</description>
+      <enclosure url="https://wgd-media.s3.us-west-2.amazonaws.com/Church_series/WITH%2BGOD%2BDAILY%2B-%2BWhy%2BNot%2BSaturday_%2B10.13.20.m4a" length="15195230" type="audio/x-m4a"/>
+      <guid isPermaLink="false">devotional-2025-11-04</guid>
+      <pubDate>Tue, 04 Nov 2025 10:18:05 GMT</pubDate>
+      <itunes:duration>7:45</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
       <title>Why Sunday?</title>
       <description>Daily devotional for Nov 3, 2025</description>
       <enclosure url="https://wgd-media.s3.us-west-2.amazonaws.com/Church_series/WITH%2BGOD%2BDAILY%2B-%2BWhy%2BSunday_%2B10.12.20.m4a" length="11968381" type="audio/x-m4a"/>
