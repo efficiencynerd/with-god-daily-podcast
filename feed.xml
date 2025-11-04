@@ -6,6 +6,7 @@
     <description>Daily audio devotional from Skye Jethani, automatically updated each morning.</description>
     <language>en-us</language>
     <itunes:author>Skye Jethani</itunes:author>
+    <itunes:image href="https://raw.githubusercontent.com/efficiencynerd/with-god-daily-podcast/main/artwork.png"/>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
@@ -18,7 +19,6 @@
       <pubDate>Tue, 04 Nov 2025 10:18:05 GMT</pubDate>
       <itunes:duration>7:45</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://raw.githubusercontent.com/efficiencynerd/with-god-daily-podcast/main/artwork.png"/>
     </item>
 
     <item>
