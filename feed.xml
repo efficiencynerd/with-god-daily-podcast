@@ -9,6 +9,16 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+
+    <item>
+      <title>Why Sunday?</title>
+      <description>Daily devotional for Nov 3, 2025</description>
+      <enclosure url="https://wgd-media.s3.us-west-2.amazonaws.com/Church_series/WITH%2BGOD%2BDAILY%2B-%2BWhy%2BSunday_%2B10.12.20.m4a" length="11968381" type="audio/x-m4a"/>
+      <guid isPermaLink="false">devotionall-2025-11-03</guid>
+      <pubDate>Tue, 04 Nov 2025 01:26:51 GMT</pubDate>
+      <itunes:duration>6:06</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   
     <item>
       <title>Why Sunday?</title>
