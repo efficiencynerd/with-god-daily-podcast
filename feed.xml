@@ -12,6 +12,17 @@
     </itunes:category>
 
     <item>
+      <title>Master & Slave</title>
+      <description>Daily devotional for Nov 17, 2025</description>
+      <enclosure url="https://wgd-media.s3.us-west-2.amazonaws.com/Church_series/WITH%2BGOD%2BDAILY%2B-%2BMaster%2B%26%2BSlave%2B10.26.20.m4a" length="13642038" type="audio/x-m4a"/>
+      <guid isPermaLink="false">devotion-2025-11-17</guid>
+      <pubDate>Mon, 17 Nov 2025 10:04:49 GMT</pubDate>
+      <itunes:duration>6:58</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/efficiencynerd/with-god-daily-podcast/main/artwork.png"/>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
       <title>The Intent Behind the Instruments</title>
       <description>This devotional highlights that true Christian worship, as exemplified by King David, transcends external rituals, music, or temples. God primarily desires a broken spirit and a contrite heart?a genuine relationship?rather than mere performance or mechanical offerings. External acts of worship are only meaningful when they express this deeper desire for God's heart.</description>
       <enclosure url="https://wgd-media.s3.us-west-2.amazonaws.com/Church_series/WITH%2BGOD%2BDAILY%2B-%2BThe%2BIntent%2BBehind%2Bthe%2BInstruments%2B10.23.20.m4a" length="14755066" type="audio/x-m4a"/>
