@@ -12,6 +12,17 @@
     </itunes:category>
 
     <item>
+      <title>The Essential Church</title>
+      <description>A study found that personal spiritual disciplines, meaningful relationships, and serving others foster faith more than elaborate church programs or buildings. This calls the church to rethink its identity, shifting from a programmatic institution to a Spirit-driven, relational community essential for individual spiritual formation and God's mission in the world.</description>
+      <enclosure url="https://wgd-media.s3.us-west-2.amazonaws.com/Church_series/WITH%2BGOD%2BDAILY%2B-%2BThe%2BEssential%2BChurch%2B11.27.20.m4a" length="13243910" type="audio/x-m4a"/>
+      <guid isPermaLink="false">devotion-2025-12-11</guid>
+      <pubDate>Thu, 11 Dec 2025 10:05:01 GMT</pubDate>
+      <itunes:duration>6:46</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/efficiencynerd/with-god-daily-podcast/main/artwork.png"/>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
       <title>Character or Charisma?</title>
       <description>This devotional argues that much of American Christianity, influenced by an "Evangelical Industrial Complex," has strayed from biblical standards by prioritizing marketplace acumen and charisma over spiritual maturity and character in its leaders. Consequently, leaders are often selected for their ability to generate revenue rather than their capacity to genuinely shepherd the flock, leaving believers vulnerable to ungodly influence and the dangers of a business-driven faith.</description>
       <enclosure url="https://wgd-media.s3.us-west-2.amazonaws.com/Church_series/WITH%2BGOD%2BDAILY%2B-%2BCharacter%2Bor%2BCharisma_%2B11.24.20.m4a" length="13581517" type="audio/x-m4a"/>
