@@ -12,6 +12,17 @@
     </itunes:category>
 
     <item>
+      <title>A Place to Wrestle</title>
+      <description>This devotional explains that Christian faith involves a continuous "wrestling with God" over profound questions of meaning and purpose, acknowledging that doubt is inherent to the journey. Like Jacob, believers grapple with fear and uncertainty, but learn to trust God even when His plan isn't clear. The church provides a vital community where this spiritual struggle is shared, offering comfort and reaffirmation that God's justice ultimately prevails.</description>
+      <enclosure url="https://wgd-media.s3.us-west-2.amazonaws.com/Church_series/WITH%2BGOD%2BDAILY%2B-%2BA%2BPlace%2Bto%2BWrestle%2B9.28.20.m4a" length="12428610" type="audio/x-m4a"/>
+      <guid isPermaLink="false">devotion-2025-12-12</guid>
+      <pubDate>Fri, 12 Dec 2025 10:05:25 GMT</pubDate>
+      <itunes:duration>6:21</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/efficiencynerd/with-god-daily-podcast/main/artwork.png"/>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
       <title>The Essential Church</title>
       <description>A study found that personal spiritual disciplines, meaningful relationships, and serving others foster faith more than elaborate church programs or buildings. This calls the church to rethink its identity, shifting from a programmatic institution to a Spirit-driven, relational community essential for individual spiritual formation and God's mission in the world.</description>
       <enclosure url="https://wgd-media.s3.us-west-2.amazonaws.com/Church_series/WITH%2BGOD%2BDAILY%2B-%2BThe%2BEssential%2BChurch%2B11.27.20.m4a" length="13243910" type="audio/x-m4a"/>
